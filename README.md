@@ -40,5 +40,4 @@
 <br clear="both">
 
 
-.shakib{
-padding= "40px"}
+
